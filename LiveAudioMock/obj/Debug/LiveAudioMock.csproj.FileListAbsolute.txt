@@ -1,0 +1,12 @@
+D:\LiveAudioMock\LiveAudioMock\bin\Debug\LiveAudioMock.exe.config
+D:\LiveAudioMock\LiveAudioMock\bin\Debug\LiveAudioMock.exe
+D:\LiveAudioMock\LiveAudioMock\bin\Debug\LiveAudioMock.pdb
+D:\LiveAudioMock\LiveAudioMock\bin\Debug\NAudio.dll
+D:\LiveAudioMock\LiveAudioMock\bin\Debug\NAudio.xml
+D:\LiveAudioMock\LiveAudioMock\obj\Debug\LiveAudioMock.csprojResolveAssemblyReference.cache
+D:\LiveAudioMock\LiveAudioMock\obj\Debug\LiveAudioMock.Properties.Resources.resources
+D:\LiveAudioMock\LiveAudioMock\obj\Debug\LiveAudioMock.csproj.GenerateResource.Cache
+D:\LiveAudioMock\LiveAudioMock\obj\Debug\LiveAudioMock.exe
+D:\LiveAudioMock\LiveAudioMock\obj\Debug\LiveAudioMock.pdb
+D:\LiveAudioMock\LiveAudioMock\obj\Debug\LiveAudioMock.Form1.resources
+D:\LiveAudioMock\LiveAudioMock\bin\Debug\NSpeex.dll
